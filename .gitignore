@@ -1,3 +1,6 @@
 .bundle
 Gemfile.lock
 .DS_Store
+_site/Gemfile
+_site/README
+_site/config.ru

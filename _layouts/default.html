@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>{{ page.title }}</title>
+    <link href="/css/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="wrap">
+      <div id="photo">
+        <img src="{{ page.photo_src }}" alt="{{ page.photo_dsc }}" title="{{ page.photo_dsc}}" /> 
+      </div>
+      <div id="content">
+        {{ content }}
+      </div>
+    </div>
+  </body>
+</html>
