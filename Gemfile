@@ -1,4 +1,4 @@
-source :gemcutter
+source :rubygems
 
 gem 'rack-jekyll', '0.3.5'
 
