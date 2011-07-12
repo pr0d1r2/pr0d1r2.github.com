@@ -19,4 +19,5 @@ I use BDD and many other Agile methodologies as my everyday routine for developm
 [GitHub](http://github.com/Pr0d1r2),
 [Twitter](http://twitter.com/Pr0d1r2),
 [E-Mail](mailto:pr0d1r2@gmail.com),
-[involved](/involved.html)
+[involved](/involved.html),
+[CV](/CV-Marcin_Nowicki-aka-Pr0d1r2-2010-11-29.pdf)
