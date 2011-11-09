@@ -44,6 +44,18 @@ Site is for students searching for jobs.
 
 <hr>
 
+## [experteer.de](http://experteer.de)
+
+Commercial project. Working currently as pair programmer with [Marcin Michałowski](http://marcinmichalowski.com/).
+<ul>
+  <li>Google-friendly job posting catalog.</li>
+  <li>Log statistics aggregations.</li>
+  <li>Large data imports from partners.</li>
+  <li>Ruby on Rails upgrade on main application.</li>
+</ul>
+
+<hr>
+
 ## [coworking.czest.pl](http://coworking.czest.pl)
 
 Spreading idea of coworking in my small city :)
