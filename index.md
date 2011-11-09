@@ -91,6 +91,16 @@ Commercial project. Working currently as pair programmer with [Marcin Michałows
 
 <hr>
 
+## [central plexus](https://github.com/doubledrones/central_plexus)
+
+<ul>
+  <li>Toolset for installing development environment on new Macs.</li>
+  <li>Allow you to introduce new developer to project in 1 hour instead of 1 day.</li>
+  <li>Many useful scripts and tools for everyday development.</li>
+</ul>
+
+<hr>
+
 ## [excerpt-fu ruby gem](http://github.com/experteer/excerpt-fu)
 
 <ul>
