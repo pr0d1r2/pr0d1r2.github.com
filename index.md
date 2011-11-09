@@ -13,6 +13,8 @@ I am Ruby on Rails developer and Team Leader using GTD and minimalistic approach
 
 I use BDD and many other Agile methodologies as my everyday routine for development.
 
+My clients make more profit and decrease their costs via intelligent usage of tools.
+
 <hr>
 
 [Blog](http://pr0d1r2.tumblr.com),
