@@ -30,7 +30,7 @@ My clients make more profit and decrease their costs via intelligent usage of to
 
 <hr>
 
-## [28dni.pl](http://28dni.pl)
+## [28dni.pl](http://28dni.pl) / [go28days.com](http://go28days.com/) / [28dias.es](http://28dias.es/)
 
 Startup. Developed with [Marcin Michałowski](http://marcinmichalowski.com/)
 
