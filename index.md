@@ -34,16 +34,21 @@ Startup. Developed with [Marcin Michałowski](http://marcinmichalowski.com/)
 
 <ul>
   <li>Site covers woman fertility issues.</li>
+  <li>Large datasets to analyze and draw charts</li>
+  <li>Multiple language versions</li>
+  <li>Application written in early stage of Rails framework (2006)</li>
 </ul>
 
 <hr>
 
 ## [jobmensa.de](http://jobmensa.de)
 
-Commercial project. I was Team Leader there for 18 months.
+Commercial project.
 
 <ul>
   <li>Site is for students searching for jobs.</li>
+  <li>Team Leader there for 18 months.</li>
+  <li>Weekly SCRUM master.</li>
 </ul>
 
 <hr>
