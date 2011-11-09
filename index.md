@@ -89,7 +89,7 @@ Commercial project. Working currently as pair programmer with [Marcin Michałows
 
 <hr>
 
-## [excerpt-fu](http://github.com/experteer/excerpt-fu)
+## [excerpt-fu ruby gem](http://github.com/experteer/excerpt-fu)
 
 <ul>
   <li>Ruby gem for making excerpts from text. Useful for creating text snippets.</li>
@@ -97,7 +97,7 @@ Commercial project. Working currently as pair programmer with [Marcin Michałows
 
 <hr>
 
-## [countries](https://github.com/hexorx/countries)
+## [countries ruby gem](https://github.com/hexorx/countries)
 
 <ul>
   <li>Ruby gem for country recognition basing on ISO3166 standard.</li>
@@ -105,7 +105,7 @@ Commercial project. Working currently as pair programmer with [Marcin Michałows
 
 <hr>
 
-## [currencies](https://github.com/hexorx/currencies)
+## [currencies ruby gem](https://github.com/hexorx/currencies)
 
 <ul>
   <li>Ruby gem for currency recognition basing on ISO4217 standard.</li>
