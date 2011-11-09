@@ -96,3 +96,19 @@ Commercial project. Working currently as pair programmer with [Marcin Michałows
 </ul>
 
 <hr>
+
+## [countries](https://github.com/hexorx/countries)
+
+<ul>
+  <li>Ruby gem for country recognition basing on ISO3166 standard.</li>
+</ul>
+
+<hr>
+
+## [currencies](https://github.com/hexorx/currencies)
+
+<ul>
+  <li>Ruby gem for currency recognition basing on ISO4217 standard.</li>
+</ul>
+
+<hr>
