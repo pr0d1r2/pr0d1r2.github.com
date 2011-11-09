@@ -32,7 +32,9 @@ I use BDD and many other Agile methodologies as my everyday routine for developm
 
 Startup. Developed with [Marcin Michałowski](http://marcinmichalowski.com/)
 
-Site covers woman fertility issues.
+<ul>
+  <li>Site covers woman fertility issues.</li>
+</ul>
 
 <hr>
 
@@ -40,7 +42,9 @@ Site covers woman fertility issues.
 
 Commercial project. I was Team Leader there for 18 months.
 
-Site is for students searching for jobs.
+<ul>
+  <li>Site is for students searching for jobs.</li>
+</ul>
 
 <hr>
 
@@ -58,24 +62,32 @@ Commercial project. Working currently as pair programmer with [Marcin Michałows
 
 ## [coworking.czest.pl](http://coworking.czest.pl)
 
-Spreading idea of coworking in my small city :)
+<ul>
+  <li>Spreading idea of coworking in my small city :)</li>
+</ul>
 
 <hr>
 
 ## [rozklad.czest.pl](http://rozklad.czest.pl)
 
-Bus schedule searcher with geolocation for mobile devices and desktops.
+<ul>
+  <li>Bus schedule searcher with geolocation for mobile devices and desktops.</li>
+</ul>
 
 <hr>
 
 ## [doubledrones.com](http://doubledrones.com)
 
-Learning new developers on live projects.
+<ul>
+  <li>Learning new developers on live projects.</li>
+</ul>
 
 <hr>
 
 ## [excerpt-fu](http://github.com/experteer/excerpt-fu)
 
-Ruby gem for making excerpts from text. Useful for creating text snippets.
+<ul>
+  <li>Ruby gem for making excerpts from text. Useful for creating text snippets.</li>
+</ul>
 
 <hr>
