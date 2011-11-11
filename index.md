@@ -19,7 +19,11 @@ My clients make more profit and decrease their costs via intelligent usage of to
 
 [Blog](http://pr0d1r2.tumblr.com),
 [GitHub](http://github.com/Pr0d1r2),
+[OpenSource](https://github.com/doubledrones),
+[Facebook](http://facebook.com/pr0d1r2),
 [Twitter](http://twitter.com/Pr0d1r2),
+[Linkedin](http://www.linkedin.com/in/pr0d1r2),
+[Xing](https://www.xing.com/profile/Marcin_Nowicki3),
 [E-Mail](mailto:pr0d1r2@gmail.com),
 [CV](/CV-Marcin_Nowicki-aka-Pr0d1r2-2010-11-29.pdf)
 
