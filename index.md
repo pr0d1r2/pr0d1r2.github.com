@@ -83,6 +83,7 @@ Commercial project. Working currently as pair programmer with [Marcin Michałows
 
 <ul>
   <li>Bus schedule searcher with geolocation for mobile devices and desktops.</li>
+  <li>Login via Facebook.</li>
 </ul>
 
 <hr>
