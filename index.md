@@ -36,9 +36,9 @@ My clients make more profit and decrease their costs via intelligent usage of to
 
 ## [28dni.pl](http://28dni.pl) / [go28days.com](http://go28days.com/) / [28dias.es](http://28dias.es/)
 
-Startup. Developed with [Marcin Michałowski](http://marcinmichalowski.com/)
-
 <ul>
+  <li>Startup.</li>
+  <li>Developed with [Marcin Michałowski](http://marcinmichalowski.com/)</li>
   <li>Site covers woman fertility issues.</li>
   <li>Large datasets to analyze and draw charts</li>
   <li>Multiple language versions</li>
@@ -49,9 +49,8 @@ Startup. Developed with [Marcin Michałowski](http://marcinmichalowski.com/)
 
 ## [jobmensa.de](http://jobmensa.de)
 
-Commercial project.
-
 <ul>
+  <li>Commercial project.</li>
   <li>Site is for students searching for jobs.</li>
   <li>Team Leader there for 18 months.</li>
   <li>Weekly SCRUM master.</li>
@@ -61,8 +60,9 @@ Commercial project.
 
 ## [experteer.de](http://experteer.de)
 
-Commercial project. Working currently as pair programmer with [Marcin Michałowski](http://marcinmichalowski.com/).
 <ul>
+  <li>Commercial project.</li>
+  <li>Working currently as pair programmer with [Marcin Michałowski](http://marcinmichalowski.com/).</li>
   <li>Google-friendly job posting catalog.</li>
   <li>Log statistics aggregations.</li>
   <li>Large data imports from partners.</li>
@@ -74,6 +74,7 @@ Commercial project. Working currently as pair programmer with [Marcin Michałows
 ## [coworking.czest.pl](http://coworking.czest.pl)
 
 <ul>
+  <li>Startup.</li>
   <li>Spreading idea of coworking in my small city :)</li>
 </ul>
 
@@ -82,6 +83,7 @@ Commercial project. Working currently as pair programmer with [Marcin Michałows
 ## [rozklad.czest.pl](http://rozklad.czest.pl)
 
 <ul>
+  <li>Startup.</li>
   <li>Bus schedule searcher with geolocation for mobile devices and desktops.</li>
   <li>Login via Facebook.</li>
 </ul>
@@ -91,6 +93,7 @@ Commercial project. Working currently as pair programmer with [Marcin Michałows
 ## [doubledrones.com](http://doubledrones.com)
 
 <ul>
+  <li>Startup</li>
   <li>Learning new developers on live projects.</li>
 </ul>
 
