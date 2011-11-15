@@ -38,7 +38,7 @@ My clients make more profit and decrease their costs via intelligent usage of to
 
 <ul>
   <li>Startup.</li>
-  <li>Developed with [Marcin Michałowski](http://marcinmichalowski.com/)</li>
+  <li>Developed with <a href="http://marcinmichalowski.com/">Marcin Michałowski</a></li>
   <li>Site covers woman fertility issues.</li>
   <li>Large datasets to analyze and draw charts</li>
   <li>Multiple language versions</li>
@@ -62,7 +62,7 @@ My clients make more profit and decrease their costs via intelligent usage of to
 
 <ul>
   <li>Commercial project.</li>
-  <li>Working currently as pair programmer with [Marcin Michałowski](http://marcinmichalowski.com/).</li>
+  <li>Working currently as pair programmer with <a href="http://marcinmichalowski.com/">Marcin Michałowski</a>.</li>
   <li>Google-friendly job posting catalog.</li>
   <li>Log statistics aggregations.</li>
   <li>Large data imports from partners.</li>
