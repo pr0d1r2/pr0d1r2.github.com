@@ -132,3 +132,17 @@ My clients make more profit and decrease their costs via intelligent usage of to
 </ul>
 
 <hr>
+
+<br/>
+<br/>
+
+## Hobbies: 
+
+<hr>
+
+[PsyTrance Music](http://www.last.fm/user/pr0d1r2),
+[Personal development](http://en.wikipedia.org/wiki/Personal_development),
+[Life hack](http://en.wikipedia.org/wiki/Life_hack),
+[Cooking](http://en.wikipedia.org/wiki/Cooking),
+[Strategy games](http://en.wikipedia.org/wiki/Strategy_game),
+[Fly fishing](http://en.wikipedia.org/wiki/Fly_fishing)
