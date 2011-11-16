@@ -30,6 +30,32 @@ My clients make more profit and decrease their costs via intelligent usage of to
 <br/>
 <br/>
 
+## Skills:
+
+<hr>
+
+[GTD](http://en.wikipedia.org/wiki/Getting_Things_Done),
+[Agile](http://en.wikipedia.org/wiki/Agile_software_development),
+[BDD](http://en.wikipedia.org/wiki/Behavior_Driven_Development),
+[SCRUM](http://en.wikipedia.org/wiki/SCRUM),
+[Ruby](http://www.ruby-lang.org/en/),
+[Ruby on Rails](http://rubyonrails.org/),
+[PostgreSQL](http://en.wikipedia.org/wiki/PostgreSQL),
+[Geocoding](http://en.wikipedia.org/wiki/Geocoding),
+[Gentoo Linux](http://www.gentoo.org/),
+<br/>
+[MongoDB](http://www.mongodb.org/),
+[jQuery](http://jquery.com/),
+[jQuery Mobile](http://jquerymobile.com/),
+[KPI](http://en.wikipedia.org/wiki/Key_performance_indicator),
+[Newrelic RPM](http://newrelic.com/),
+[Google Analytics](http://en.wikipedia.org/wiki/Google_Analytics),
+[Public speaking](http://en.wikipedia.org/wiki/Public_speaking)
+
+
+<br/>
+<br/>
+
 ## Involved in: 
 
 <hr>
