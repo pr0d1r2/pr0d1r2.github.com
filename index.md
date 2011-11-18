@@ -52,6 +52,21 @@ My clients make more profit and decrease their costs via intelligent usage of to
 [Google Analytics](http://en.wikipedia.org/wiki/Google_Analytics),
 [Public speaking](http://en.wikipedia.org/wiki/Public_speaking)
 
+<br/>
+<br/>
+
+## Tools:
+
+<hr>
+
+[iMac 27"](http://www.apple.com/imac/),
+[External monitor](http://support.dell.com/support/edocs/monitors/2005FPW/En/about.htm),
+[central plexus](https://github.com/doubledrones/central_plexus),
+[MacVim](http://code.google.com/p/macvim/),
+[cucumber](http://cukes.info/),
+[CI](http://en.wikipedia.org/wiki/Continuous_integration),
+[The Hit List](http://www.potionfactory.com/thehitlist/),
+[Sparrow](http://www.sparrowmailapp.com/)
 
 <br/>
 <br/>
