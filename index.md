@@ -44,14 +44,11 @@ My clients make more profit and decrease their costs via intelligent usage of to
 [Geocoding](http://en.wikipedia.org/wiki/Geocoding),
 [Gentoo Linux](http://www.gentoo.org/),
 <br/>
-[MongoDB](http://www.mongodb.org/),
-[jQuery](http://jquery.com/),
-[jQuery Mobile](http://jquerymobile.com/),
 [KPI](http://en.wikipedia.org/wiki/Key_performance_indicator),
-[Newrelic RPM](http://newrelic.com/),
-[Google Analytics](http://en.wikipedia.org/wiki/Google_Analytics),
-[Public speaking](http://en.wikipedia.org/wiki/Public_speaking)
-
+[MongoDB](http://www.mongodb.org/),
+[jQuery Mobile](http://jquerymobile.com/),
+[Public speaking](http://en.wikipedia.org/wiki/Public_speaking),
+[Agile project evaluations and estimations](http://pivotaltracker.com)
 <br/>
 <br/>
 
@@ -66,7 +63,12 @@ My clients make more profit and decrease their costs via intelligent usage of to
 [cucumber](http://cukes.info/),
 [CI](http://en.wikipedia.org/wiki/Continuous_integration),
 [The Hit List](http://www.potionfactory.com/thehitlist/),
-[Sparrow](http://www.sparrowmailapp.com/)
+[Sparrow](http://www.sparrowmailapp.com/),
+<br/>
+[Newrelic RPM](http://newrelic.com/),
+[Google Analytics](http://en.wikipedia.org/wiki/Google_Analytics),
+[Airbrake](http://airbrake.io/pages/home),
+[Server Density](http://www.serverdensity.com/)
 
 <br/>
 <br/>
