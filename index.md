@@ -20,6 +20,7 @@ My clients make more profit and decrease their costs via intelligent usage of to
 [Blog](http://pr0d1r2.tumblr.com),
 [GitHub](http://github.com/Pr0d1r2),
 [OpenSource](https://github.com/doubledrones),
+[Masterbranch](https://www.masterbranch.com/developer/marcin.nowicki),
 [Facebook](http://facebook.com/pr0d1r2),
 [Twitter](http://twitter.com/Pr0d1r2),
 [Linkedin](http://www.linkedin.com/in/pr0d1r2),
