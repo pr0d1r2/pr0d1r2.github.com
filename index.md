@@ -96,6 +96,20 @@ My clients make more profit and decrease their costs via intelligent usage of to
 
 <hr>
 
+## [prostydns.pl](http://prostydns.pl)
+
+<ul>
+  <li>Startup.</li>
+  <li>Developed with <a href="http://marcinmichalowski.com/">Marcin Michałowski</a></li>
+  <li>Easy to use DNS management application</li>
+  <li>My role: CEO and Programmer</li>
+  <li>Application written in Rails 3</li>
+  <li>Use external API</li>
+</ul>
+
+<br/>
+<hr>
+
 ## [28dni.pl](http://28dni.pl) / [go28days.com](http://go28days.com/) / [28dias.es](http://28dias.es/)
 
 <ul>
