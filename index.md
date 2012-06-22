@@ -45,24 +45,26 @@ My clients make more profit and decrease their costs via intelligent usage of to
 [Ruby on Rails](http://rubyonrails.org/),
 [PostgreSQL](http://en.wikipedia.org/wiki/PostgreSQL),
 [Geocoding](http://en.wikipedia.org/wiki/Geocoding),
-[Gentoo Linux](http://www.gentoo.org/),
 <br/>
+[Gentoo Linux](http://www.gentoo.org/),
 [KPI](http://en.wikipedia.org/wiki/Key_performance_indicator),
 [MongoDB](http://www.mongodb.org/),
 [jQuery Mobile](http://jquerymobile.com/),
 [Public speaking](http://en.wikipedia.org/wiki/Public_speaking),
-[Agile project evaluations and estimations](http://pivotaltracker.com),
 [backbone.js](http://backbonejs.org),
+[Web Scraping](http://en.wikipedia.org/wiki/Web_scraping),
+<br/>
 [Creating JSON API](http://en.wikipedia.org/wiki/Application_programming_interface),
+[Agile project evaluations and estimations](http://pivotaltracker.com),
 [EBay API](http://developer.ebay.com/common/api),
 [shopping.com API](http://developer.shopping.com),
+<br/>
 [Virtualization](http://en.wikipedia.org/wiki/Virtualization),
 [VirtualBox](http://en.wikipedia.org/wiki/Virtual_box),
 [Chef](https://github.com/opscode/chef),
 [Vagrant](https://github.com/mitchellh/vagrant),
 [VeeWee](https://github.com/jedi4ever/veewee),
 [Unix Shell Scripting](http://en.wikipedia.org/wiki/Shell_scripting),
-[Web Scraping](http://en.wikipedia.org/wiki/Web_scraping),
 [Jenkins CI Setup](http://jenkins-ci.org)
 <br/>
 <br/>
