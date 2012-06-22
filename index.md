@@ -72,18 +72,20 @@ My clients make more profit and decrease their costs via intelligent usage of to
 <hr>
 
 [iMac 27"](http://www.apple.com/imac/),
-[External monitor](http://support.dell.com/support/edocs/monitors/2005FPW/En/about.htm),
+[MacBook](http://lowendmac.com/macbook/macbook-white-2008.html),
 [central plexus](https://github.com/doubledrones/central_plexus),
 [MacVim](http://code.google.com/p/macvim/),
+[steak](https://github.com/cavalle/steak),
 [cucumber](http://cukes.info/),
 [CI](http://en.wikipedia.org/wiki/Continuous_integration),
-[The Hit List](http://www.potionfactory.com/thehitlist/),
-[Sparrow](http://www.sparrowmailapp.com/),
+[Things](http://culturedcode.com/things),
+[Sparrow](http://www.sparrowmailapp.com),
 <br/>
-[Newrelic RPM](http://newrelic.com/),
+[Newrelic RPM](http://newrelic.com),
 [Google Analytics](http://en.wikipedia.org/wiki/Google_Analytics),
 [Airbrake](http://airbrake.io/pages/home),
-[Server Density](http://www.serverdensity.com/)
+[Server Density](http://www.serverdensity.com),
+[Boxcar](http://boxcar.io)
 
 <br/>
 <br/>
