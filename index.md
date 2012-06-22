@@ -25,6 +25,9 @@ My clients make more profit and decrease their costs via intelligent usage of to
 [Twitter](http://twitter.com/Pr0d1r2),
 [Linkedin](http://www.linkedin.com/in/pr0d1r2),
 [Xing](https://www.xing.com/profile/Marcin_Nowicki3),
+[Geeklist](http://geekli.st/Pr0d1r2),
+<br/>
+[WorkingWithRails](http://www.workingwithrails.com/person/3696875-marcin-nowicki),
 [E-Mail](mailto:pr0d1r2@gmail.com),
 [CV](/CV-Marcin_Nowicki-aka-Pr0d1r2-2010-11-29.pdf)
 
