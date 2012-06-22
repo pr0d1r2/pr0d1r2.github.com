@@ -35,6 +35,8 @@ My clients make more profit and decrease their costs via intelligent usage of to
 
 <hr>
 
+[Team Leader](http://en.wikipedia.org/wiki/Team_leader)
+[CTO](http://en.wikipedia.org/wiki/Chief_technology_officer)
 [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done),
 [Agile](http://en.wikipedia.org/wiki/Agile_software_development),
 [BDD](http://en.wikipedia.org/wiki/Behavior_Driven_Development),
@@ -50,6 +52,18 @@ My clients make more profit and decrease their costs via intelligent usage of to
 [jQuery Mobile](http://jquerymobile.com/),
 [Public speaking](http://en.wikipedia.org/wiki/Public_speaking),
 [Agile project evaluations and estimations](http://pivotaltracker.com)
+[backbone.js](http://backbonejs.org)
+[Creating JSON API](http://en.wikipedia.org/wiki/Application_programming_interface)
+[EBay API](http://developer.ebay.com/common/api)
+[shopping.com API](http://developer.shopping.com)
+[Virtualization](http://en.wikipedia.org/wiki/Virtualization)
+[VirtualBox](http://en.wikipedia.org/wiki/Virtual_box)
+[Chef](https://github.com/opscode/chef)
+[Vagrant](https://github.com/mitchellh/vagrant)
+[VeeWee](https://github.com/jedi4ever/veewee)
+[Unix Shell Scripting](http://en.wikipedia.org/wiki/Shell_scripting)
+[Web Scraping](http://en.wikipedia.org/wiki/Web_scraping)
+[Jenkins CI Setup](http://jenkins-ci.org)
 <br/>
 <br/>
 
