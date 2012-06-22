@@ -107,6 +107,7 @@ My clients make more profit and decrease their costs via intelligent usage of to
   <li>Application written in early stage of Rails framework (2006)</li>
 </ul>
 
+<br/>
 <hr>
 
 ## [jobmensa.de](http://jobmensa.de)
@@ -118,6 +119,7 @@ My clients make more profit and decrease their costs via intelligent usage of to
   <li>Weekly SCRUM master.</li>
 </ul>
 
+<br/>
 <hr>
 
 ## [experteer.de](http://experteer.de)
@@ -131,6 +133,7 @@ My clients make more profit and decrease their costs via intelligent usage of to
   <li>Ruby on Rails upgrade on main application.</li>
 </ul>
 
+<br/>
 <hr>
 
 ## [coworking.czest.pl](http://coworking.czest.pl)
@@ -140,6 +143,7 @@ My clients make more profit and decrease their costs via intelligent usage of to
   <li>Spreading idea of coworking in my small city :)</li>
 </ul>
 
+<br/>
 <hr>
 
 ## [rozklad.czest.pl](http://rozklad.czest.pl)
@@ -150,6 +154,7 @@ My clients make more profit and decrease their costs via intelligent usage of to
   <li>Login via Facebook.</li>
 </ul>
 
+<br/>
 <hr>
 
 ## [doubledrones.com](http://doubledrones.com)
@@ -159,6 +164,7 @@ My clients make more profit and decrease their costs via intelligent usage of to
   <li>Learning new developers on live projects.</li>
 </ul>
 
+<br/>
 <hr>
 
 ## [central plexus](https://github.com/doubledrones/central_plexus)
@@ -169,6 +175,7 @@ My clients make more profit and decrease their costs via intelligent usage of to
   <li>Many useful scripts and tools for everyday development.</li>
 </ul>
 
+<br/>
 <hr>
 
 ## [excerpt-fu ruby gem](http://github.com/experteer/excerpt-fu)
@@ -177,6 +184,7 @@ My clients make more profit and decrease their costs via intelligent usage of to
   <li>Ruby gem for making excerpts from text. Useful for creating text snippets.</li>
 </ul>
 
+<br/>
 <hr>
 
 ## [countries ruby gem](https://github.com/hexorx/countries)
@@ -185,6 +193,7 @@ My clients make more profit and decrease their costs via intelligent usage of to
   <li>Ruby gem for country recognition basing on ISO3166 standard.</li>
 </ul>
 
+<br/>
 <hr>
 
 ## [currencies ruby gem](https://github.com/hexorx/currencies)
@@ -192,8 +201,6 @@ My clients make more profit and decrease their costs via intelligent usage of to
 <ul>
   <li>Ruby gem for currency recognition basing on ISO4217 standard.</li>
 </ul>
-
-<hr>
 
 <br/>
 <br/>
