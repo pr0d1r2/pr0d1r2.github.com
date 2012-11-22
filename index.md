@@ -68,7 +68,11 @@ My clients make more profit and decrease their costs via intelligent usage of to
 [Vagrant](https://github.com/mitchellh/vagrant),
 [VeeWee](https://github.com/jedi4ever/veewee),
 [Unix Shell Scripting](http://en.wikipedia.org/wiki/Shell_scripting),
-[Jenkins CI Setup](http://jenkins-ci.org)
+[Jenkins CI Setup](http://jenkins-ci.org),
+<br/>
+[A/B testing](http://en.wikipedia.org/wiki/A/B_testing),
+[Conversion Optimization](http://en.wikipedia.org/wiki/Conversion_optimization),
+[Lean software development](http://en.wikipedia.org/wiki/Lean_software_development)
 <br/>
 <br/>
 
