@@ -72,7 +72,8 @@ My clients make more profit and decrease their costs via intelligent usage of to
 <br/>
 [A/B testing](http://en.wikipedia.org/wiki/A/B_testing),
 [Conversion Optimization](http://en.wikipedia.org/wiki/Conversion_optimization),
-[Lean software development](http://en.wikipedia.org/wiki/Lean_software_development)
+[Lean software development](http://en.wikipedia.org/wiki/Lean_software_development),
+[Sinatra](http://www.sinatrarb.com)
 <br/>
 <br/>
 
