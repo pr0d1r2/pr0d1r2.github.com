@@ -76,7 +76,12 @@ My clients make more profit and decrease their costs via intelligent usage of to
 [Adwords](http://en.wikipedia.org/wiki/Adwords),
 [Adsense](http://en.wikipedia.org/wiki/Adsense),
 <br/>
-[Sinatra](http://www.sinatrarb.com)
+[Sinatra](http://www.sinatrarb.com),
+[Server Administration](http://en.wikipedia.org/wiki/Server_administration),
+[qmail](http://qmail.omnis.ch/top.html),
+[monit](http://mmonit.com),
+[NASK epp](http://www.dns.pl/english/NASK_EPP_Extension_en.pdf),
+[Metaprogramming](http://en.wikipedia.org/wiki/Metaprogramming)
 <br/>
 <br/>
 
