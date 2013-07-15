@@ -63,52 +63,62 @@ My clients make more profit and decrease their costs via intelligent usage of to
 [shopping.com API](http://developer.shopping.com),
 <br/>
 [Virtualization](http://en.wikipedia.org/wiki/Virtualization),
-[VirtualBox](http://en.wikipedia.org/wiki/Virtual_box),
-[Chef](https://github.com/opscode/chef),
-[Vagrant](https://github.com/mitchellh/vagrant),
-[VeeWee](https://github.com/jedi4ever/veewee),
 [Unix Shell Scripting](http://en.wikipedia.org/wiki/Shell_scripting),
-[Jenkins CI Setup](http://jenkins-ci.org),
+[CI](http://en.wikipedia.org/wiki/Continuous_integration),
+[Growth Hacking](http://www.quora.com/Growth-Hacking/What-is-growth-hacking),
+[Conversion Optimization](http://en.wikipedia.org/wiki/Conversion_optimization),
 <br/>
 [A/B testing](http://en.wikipedia.org/wiki/A/B_testing),
-[Conversion Optimization](http://en.wikipedia.org/wiki/Conversion_optimization),
 [Lean software development](http://en.wikipedia.org/wiki/Lean_software_development),
 [Adwords](http://en.wikipedia.org/wiki/Adwords),
-[Adsense](http://en.wikipedia.org/wiki/Adsense),
-<br/>
-[Sinatra](http://www.sinatrarb.com),
-[Server Administration](http://en.wikipedia.org/wiki/Server_administration),
-[qmail](http://qmail.omnis.ch/top.html),
-[monit](http://mmonit.com),
-[NASK epp](http://www.dns.pl/english/NASK_EPP_Extension_en.pdf),
-[Metaprogramming](http://en.wikipedia.org/wiki/Metaprogramming),
+[price comparison](http://en.wikipedia.org/wiki/Price_comparison),
 [e-commerce](http://en.wikipedia.org/wiki/E-commerce),
 <br/>
-[price comparison](http://en.wikipedia.org/wiki/Price_comparison),
+[Adsense](http://en.wikipedia.org/wiki/Adsense),
+[Sinatra](http://www.sinatrarb.com),
+[Server Administration](http://en.wikipedia.org/wiki/Server_administration),
+[NASK epp](http://www.dns.pl/english/NASK_EPP_Extension_en.pdf),
+[Metaprogramming](http://en.wikipedia.org/wiki/Metaprogramming),
 [affiliate tracking](http://en.wikipedia.org/wiki/Affiliate_tracking),
+<br/>
 [online auction system](http://en.wikipedia.org/wiki/Online_auction)
 <br/>
 <br/>
 
-## Tools:
+## Software used:
 
 <hr>
 
-[iMac 27"](http://www.apple.com/imac/),
-[MacBook](http://lowendmac.com/macbook/macbook-white-2008.html),
 [central plexus](https://github.com/doubledrones/central_plexus),
 [MacVim](http://code.google.com/p/macvim/),
 [steak](https://github.com/cavalle/steak),
 [cucumber](http://cukes.info/),
-[CI](http://en.wikipedia.org/wiki/Continuous_integration),
 [Things](http://culturedcode.com/things),
-[Sparrow](http://www.sparrowmailapp.com),
-<br/>
 [Newrelic RPM](http://newrelic.com),
 [Google Analytics](http://en.wikipedia.org/wiki/Google_Analytics),
 [Airbrake](http://airbrake.io/pages/home),
+<br/>
 [Server Density](http://www.serverdensity.com),
-[Boxcar](http://boxcar.io)
+[Boxcar](http://boxcar.io),
+[qmail](http://qmail.omnis.ch/top.html),
+[monit](http://mmonit.com),
+[Jenkins CI](http://jenkins-ci.org),
+[VirtualBox](http://en.wikipedia.org/wiki/Virtual_box),
+[Chef](https://github.com/opscode/chef),
+[Vagrant](https://github.com/mitchellh/vagrant),
+[VeeWee](https://github.com/jedi4ever/veewee),
+[Shelly Cloud](http://shellycloud.com/)
+
+<br/>
+<br/>
+
+## Hardware used:
+
+<hr>
+
+[MacBook Air 2012](http://www.apple.com/macbook-air/),
+[Sennheisser MM550-X](http://en-us.sennheiser.com/wireless-bluetooth-headset-stereo-mm-550-x-travel),
+[Hetzner EX4S Dedicated Servers](http://www.hetzner.de/en/hosting/produkte_rootserver/ex4s)
 
 <br/>
 <br/>
@@ -117,13 +127,29 @@ My clients make more profit and decrease their costs via intelligent usage of to
 
 <hr>
 
+## [mamymo](http://hitpreis.net/impressum)
+
+<ul>
+  <li>Price comparison site.</li>
+  <li>Developed with <a href="http://marcinmichalowski.com/">Marcin Michałowski</a></li>
+  <li>Multiple external shopping APIs</li>
+  <li>My role: CTO</li>
+  <li>Application written in Rails 3</li>
+  <li>Use of Google APIs</li>
+  <li>High volume traffic</li>
+  <li>High availability monitoring</li>
+</ul>
+
+<br/>
+<hr>
+
 ## [prostydns.pl](http://prostydns.pl)
 
 <ul>
   <li>Startup.</li>
   <li>Developed with <a href="http://marcinmichalowski.com/">Marcin Michałowski</a></li>
   <li>Easy to use DNS management application</li>
-  <li>My role: CEO and Programmer</li>
+  <li>My role: owner</li>
   <li>Application written in Rails 3</li>
   <li>Use external API</li>
 </ul>
