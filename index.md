@@ -81,7 +81,12 @@ My clients make more profit and decrease their costs via intelligent usage of to
 [qmail](http://qmail.omnis.ch/top.html),
 [monit](http://mmonit.com),
 [NASK epp](http://www.dns.pl/english/NASK_EPP_Extension_en.pdf),
-[Metaprogramming](http://en.wikipedia.org/wiki/Metaprogramming)
+[Metaprogramming](http://en.wikipedia.org/wiki/Metaprogramming),
+[e-commerce](http://en.wikipedia.org/wiki/E-commerce),
+<br/>
+[price comparison](http://en.wikipedia.org/wiki/Price_comparison),
+[affiliate tracking](http://en.wikipedia.org/wiki/Affiliate_tracking),
+[online auction system](http://en.wikipedia.org/wiki/Online_auction)
 <br/>
 <br/>
 
