@@ -17,19 +17,19 @@ My clients make more profit and decrease their costs via intelligent usage of to
 
 <hr>
 
+[Linkedin](http://www.linkedin.com/in/pr0d1r2),
+[CV](/CV-Marcin_Nowicki-aka-Pr0d1r2-2013-07-15.pdf),
 [Blog](http://pr0d1r2.tumblr.com),
 [GitHub](http://github.com/Pr0d1r2),
 [OpenSource](https://github.com/doubledrones),
 [Masterbranch](https://www.masterbranch.com/developer/marcin.nowicki),
 [Facebook](http://facebook.com/pr0d1r2),
 [Twitter](http://twitter.com/Pr0d1r2),
-[Linkedin](http://www.linkedin.com/in/pr0d1r2),
 [Xing](https://www.xing.com/profile/Marcin_Nowicki3),
 [Geeklist](http://geekli.st/Pr0d1r2),
 <br/>
 [WorkingWithRails](http://www.workingwithrails.com/person/3696875-marcin-nowicki),
-[E-Mail](mailto:pr0d1r2@gmail.com),
-[CV](/CV-Marcin_Nowicki-aka-Pr0d1r2-2010-11-29.pdf)
+[E-Mail](mailto:pr0d1r2@gmail.com)
 
 <br/>
 <br/>
@@ -276,3 +276,7 @@ My clients make more profit and decrease their costs via intelligent usage of to
 [Cooking](http://en.wikipedia.org/wiki/Cooking),
 [Strategy games](http://en.wikipedia.org/wiki/Strategy_game),
 [Fly fishing](http://en.wikipedia.org/wiki/Fly_fishing)
+
+
+
+self-development, Psy-Trance music, life-hacking, cooking and good wine, reading books, strategy games, walking and workout with good music, minimalism, fly fishing, chess
