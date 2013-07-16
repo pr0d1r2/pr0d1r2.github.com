@@ -107,7 +107,9 @@ My clients make more profit and decrease their costs via intelligent usage of to
 [Chef](https://github.com/opscode/chef),
 [Vagrant](https://github.com/mitchellh/vagrant),
 [VeeWee](https://github.com/jedi4ever/veewee),
-[Shelly Cloud](http://shellycloud.com/)
+<br/>
+[Shelly Cloud](http://shellycloud.com/),
+[Pingdom](https://www.pingdom.com/)
 
 <br/>
 <br/>
