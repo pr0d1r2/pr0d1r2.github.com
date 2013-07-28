@@ -19,7 +19,7 @@ My clients make more profit and decrease their costs via intelligent usage of to
 
 [Linkedin](http://www.linkedin.com/in/pr0d1r2),
 [Xing](https://www.xing.com/profile/Marcin_Nowicki3),
-[CV](/CV-Marcin_Nowicki-aka-Pr0d1r2-2013-07-18.pdf),
+[CV](/CV-Marcin_Nowicki-aka-Pr0d1r2-2013-07-28.pdf),
 [GitHub](http://github.com/Pr0d1r2),
 [OpenSource](https://github.com/doubledrones),
 [Masterbranch](https://www.masterbranch.com/developer/marcin.nowicki),
